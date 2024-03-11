@@ -22,7 +22,9 @@ Gets you started in seconds. Everything you need to build a production App is he
 
 ## Getting started
 > dotnet restore
+
 > dotnet ef migrations add InitialCreate
+
 > Vs Code press F5
 > start debugging in Docker or on Host
 
