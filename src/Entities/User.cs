@@ -6,7 +6,6 @@ using Microsoft.AspNetCore.Identity;
 
 namespace backend.Entities;
 public class User: IdentityUser {
-    // wer das liest ist doof
 }
 public static class Roles {
     public static string Admin = "Admin";
